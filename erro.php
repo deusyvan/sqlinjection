@@ -3,7 +3,7 @@
 //echo asdfg();
 
 
-echo substr(1,2)
+echo substr(1,2);
 rand();
 
 ?>
